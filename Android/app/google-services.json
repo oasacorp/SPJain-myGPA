@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1084639731948",
+    "project_id": "s-p-jain-mygpa-148515"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1084639731948:android:af4c5df131a09369",
+        "android_client_info": {
+          "package_name": "com.learning.spjainmygpa1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1084639731948-um58j8nrks7248do4ibnuctcctjctbt5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.learning.spjainmygpa1",
+            "certificate_hash": "89FC237FB24840456F3D04772FD4BFAF421C2278"
+          }
+        },
+        {
+          "client_id": "1084639731948-489b66kbmblb38ls1ebe287vt33rfhn7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCYFLA3ubxWRJOSIWPKrKp5DN_OeORzg4M"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
